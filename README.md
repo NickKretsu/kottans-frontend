@@ -16,3 +16,10 @@
 
 ![screenshot of the course"learninggit"](git_basics/learninggit.JPG)
 ![screenshot of the course"learninggit"](git_basics/learninggit2.JPG)
+
+## Linux CLI, and HTTP
+
+I learned information about Linux and Linux commands. 
+It was my first experience with Linux, but it was not difficult.
+
+![screenshot of the course"linux_survival"](/task_linux_cli/Linux_Survival.JPG)
