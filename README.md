@@ -34,6 +34,6 @@ What was new to me:
 - how create a pull requests;
 - how working with remote repo with: git fetch, git push and git pull.
 
-![screenshot of the course"GitHub_and_Collaboration"](/task_git_collaboration/GitHub_and_Collaboration.PNG)
+![screenshot of the course"GitHub_and_Collaboration"](/task_git_collaboration/GitHub_Collaboration.JPG)
 
 
