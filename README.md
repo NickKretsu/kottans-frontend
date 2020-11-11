@@ -1,6 +1,9 @@
 # kottans-frontend
 # General
 -  [X] Git Basics
+-  [X] Linux CLI and Networking
+-  [X] VCS (hello gitty), GitHub and Collaboration
+
 
 ## Git Basics 
 
@@ -34,6 +37,4 @@ What was new to me:
 - how create a pull requests;
 - how working with remote repo with: git fetch, git push and git pull.
 
-
-
-
+![screenshot of the course"GitHub_Collaboration"](task_git_collaboration/GitHub_Collaboration.JPG)
